@@ -1,0 +1,40 @@
+{
+  "name": "landing-1",
+  "version": "1.0.0",
+  "description": "Landing from ITVDN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artem-alekseenko/landing-1.git"
+  },
+  "keywords": [
+    "landing",
+    "learning"
+  ],
+  "author": " ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artem-alekseenko/landing-1/issues"
+  },
+  "homepage": "https://github.com/artem-alekseenko/landing-1#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify-es": "^1.0.4",
+    "gulp.spritesmith": "^6.10.1",
+    "browser-sync": "^2.26.7",
+    "rimraf": "^2.6.3"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "normalize.scss": "^0.1.0"
+  }
+}
